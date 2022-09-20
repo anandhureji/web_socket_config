@@ -29,12 +29,7 @@ public class ChatMessage {
 	public void setSender(String sender) {
 		this.sender = sender;
 	}
-	public ChatMessage(MessageType type, String content, String sender) {
-		
-		this.type = type;
-		this.content = content;
-		this.sender = sender;
-	}
+	
 	
 	
 	
